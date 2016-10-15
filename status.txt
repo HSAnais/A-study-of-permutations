@@ -1,0 +1,4 @@
+To improve:
+- interface
+- option of putting multiple images
+- option of putting strings of text instead of images

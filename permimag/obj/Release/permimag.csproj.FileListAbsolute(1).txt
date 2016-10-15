@@ -1,0 +1,8 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\obj\Release\permimag.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\obj\Release\permimag.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\obj\Release\permimag.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\bin\Release\permimag.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\bin\Release\permimag.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\obj\Release\permimag.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\permimag\permimag\obj\Release\permimag.pdb
